@@ -1,0 +1,1186 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x02
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	149
+	Class:	150
+	Class:	151
+	Class:	152
+	Class:	153
+	Class:	154
+	Class:	155
+	Class:	156
+	Class:	157
+	Class:	158
+	Class:	159
+	Class:	160
+	Class:	161
+	Class:	162
+	Class:	163
+	Class:	164
+	Class:	165
+	Class:	166
+	Class:	167
+	Class:	168
+	Class:	169
+	Class:	170
+	Class:	171
+	Class:	172
+	Class:	173
+	Class:	174
+	Class:	175
+	Class:	176
+	Class:	177
+	Class:	178
+	StdDevs:	1.00000000000000
+	NullSym:	179
+	NullValues:	183
+	StatValues:	184
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Soil_id"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	14
+	Child:	19
+	Child:	24
+	Child:	29
+	Child:	33
+	Child:	38
+	Child:	42
+	Child:	47
+	Child:	52
+	Child:	57
+	Child:	62
+	Child:	67
+	Child:	72
+	Child:	77
+	Child:	82
+	Child:	87
+	Child:	92
+	Child:	97
+	Child:	102
+	Child:	107
+	Child:	112
+	Child:	117
+	Child:	122
+	Child:	127
+	Child:	131
+	Child:	135
+	Child:	140
+	Child:	145
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Blue:	0xffff
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+	Style:	0x03
+	Stipple:	13
+)
+
+(TClr.10
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xd2d2
+	Green:	0xd2d2
+	Blue:	0xd2d2
+)
+
+(Stipple.13
+	Columns:	8
+	Rows:	8
+	Bits:	10800420 02400801 
+)
+
+(BShSym.14
+	Color:	15
+	Outline:	1
+	OutlineColor:	16
+	OutlineWidth:	0.10000000000000
+	BgColor:	17
+	Style:	0x03
+	Stipple:	18
+)
+
+(TClr.15
+)
+
+(TClr.16
+)
+
+(TClr.17
+	Red:	0xd2d2
+	Green:	0xd2d2
+	Blue:	0xd2d2
+)
+
+(Stipple.18
+	Columns:	8
+	Rows:	8
+	Bits:	44444482 01102844 
+)
+
+(BShSym.19
+	Color:	20
+	Outline:	1
+	OutlineColor:	21
+	OutlineWidth:	0.10000000000000
+	BgColor:	22
+	Style:	0x03
+	Stipple:	23
+)
+
+(TClr.20
+)
+
+(TClr.21
+)
+
+(TClr.22
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.23
+	Columns:	8
+	Rows:	8
+	Bits:	00440011 00440011 
+)
+
+(BShSym.24
+	Color:	25
+	Outline:	1
+	OutlineColor:	26
+	OutlineWidth:	0.10000000000000
+	BgColor:	27
+	Style:	0x03
+	Stipple:	28
+)
+
+(TClr.25
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.26
+)
+
+(TClr.27
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.28
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(BShSym.33
+	Color:	34
+	Outline:	1
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+	Style:	0x03
+	Stipple:	37
+)
+
+(TClr.34
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(Stipple.37
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(BShSym.38
+	Color:	39
+	Outline:	1
+	OutlineColor:	40
+	OutlineWidth:	0.10000000000000
+	BgColor:	41
+)
+
+(TClr.39
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x63
+)
+
+(TClr.40
+)
+
+(TClr.41
+	Red:	0xff00
+	Green:	0xbf7b
+	Blue:	0xfe
+)
+
+(BShSym.42
+	Color:	43
+	Outline:	1
+	OutlineColor:	44
+	OutlineWidth:	0.10000000000000
+	BgColor:	45
+	Style:	0x03
+	Stipple:	46
+)
+
+(TClr.43
+	Red:	0x3c11
+	Green:	0x6900
+	Blue:	0x68
+)
+
+(TClr.44
+)
+
+(TClr.45
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x63
+)
+
+(Stipple.46
+	Columns:	8
+	Rows:	8
+	Bits:	30303030 30303030 
+)
+
+(BShSym.47
+	Color:	48
+	Outline:	1
+	OutlineColor:	49
+	OutlineWidth:	0.10000000000000
+	BgColor:	50
+	Style:	0x03
+	Stipple:	51
+)
+
+(TClr.48
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x63
+)
+
+(TClr.49
+)
+
+(TClr.50
+	Red:	0xfeff
+	Green:	0x7218
+	Blue:	0xfe
+)
+
+(Stipple.51
+	Columns:	8
+	Rows:	8
+	Bits:	102854aa 54281000 
+)
+
+(BShSym.52
+	Color:	53
+	Outline:	1
+	OutlineColor:	54
+	OutlineWidth:	0.10000000000000
+	BgColor:	55
+	Style:	0x03
+	Stipple:	56
+)
+
+(TClr.53
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.54
+)
+
+(TClr.55
+	Red:	0xf9ff
+	Green:	0x7b88
+	Blue:	0xf9
+)
+
+(Stipple.56
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(BShSym.57
+	Color:	58
+	Outline:	1
+	OutlineColor:	59
+	OutlineWidth:	0.10000000000000
+	BgColor:	60
+	Style:	0x03
+	Stipple:	61
+)
+
+(TClr.58
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.59
+)
+
+(TClr.60
+	Red:	0xfeff
+	Green:	0x89e8
+	Blue:	0xfe
+)
+
+(Stipple.61
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.62
+	Color:	63
+	Outline:	1
+	OutlineColor:	64
+	OutlineWidth:	0.10000000000000
+	BgColor:	65
+	Style:	0x03
+	Stipple:	66
+)
+
+(TClr.63
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(TClr.64
+)
+
+(TClr.65
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(Stipple.66
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.67
+	Color:	68
+	Outline:	1
+	OutlineColor:	69
+	OutlineWidth:	0.10000000000000
+	BgColor:	70
+	Style:	0x03
+	Stipple:	71
+)
+
+(TClr.68
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.69
+)
+
+(TClr.70
+	Red:	0xbb00
+	Green:	0xa69d
+	Blue:	0xba
+)
+
+(Stipple.71
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.72
+	Color:	73
+	Outline:	1
+	OutlineColor:	74
+	OutlineWidth:	0.10000000000000
+	BgColor:	75
+	Style:	0x03
+	Stipple:	76
+)
+
+(TClr.73
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.74
+)
+
+(TClr.75
+	Red:	0xbb00
+	Green:	0xa69d
+	Blue:	0xba
+)
+
+(Stipple.76
+	Columns:	8
+	Rows:	8
+	Bits:	44880000 22110000 
+)
+
+(BShSym.77
+	Color:	78
+	Outline:	1
+	OutlineColor:	79
+	OutlineWidth:	0.10000000000000
+	BgColor:	80
+	Style:	0x03
+	Stipple:	81
+)
+
+(TClr.78
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.79
+)
+
+(TClr.80
+	Red:	0xbb00
+	Green:	0xa69d
+	Blue:	0xba
+)
+
+(Stipple.81
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(BShSym.82
+	Color:	83
+	Outline:	1
+	OutlineColor:	84
+	OutlineWidth:	0.10000000000000
+	BgColor:	85
+	Style:	0x03
+	Stipple:	86
+)
+
+(TClr.83
+	Red:	0x77d5
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(TClr.84
+)
+
+(TClr.85
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.86
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.87
+	Color:	88
+	Outline:	1
+	OutlineColor:	89
+	OutlineWidth:	0.10000000000000
+	BgColor:	90
+	Style:	0x03
+	Stipple:	91
+)
+
+(TClr.88
+	Red:	0x77d5
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(TClr.89
+)
+
+(TClr.90
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.91
+	Columns:	8
+	Rows:	8
+	Bits:	c0603018 0c060381 
+)
+
+(BShSym.92
+	Color:	93
+	Outline:	1
+	OutlineColor:	94
+	OutlineWidth:	0.10000000000000
+	BgColor:	95
+	Style:	0x03
+	Stipple:	96
+)
+
+(TClr.93
+	Red:	0x77d5
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(TClr.94
+)
+
+(TClr.95
+	Red:	0xa100
+	Green:	0x6686
+	Blue:	0x32f0
+)
+
+(Stipple.96
+	Columns:	8
+	Rows:	8
+	Bits:	00182442 42241800 
+)
+
+(BShSym.97
+	Color:	98
+	Outline:	1
+	OutlineColor:	99
+	OutlineWidth:	0.10000000000000
+	BgColor:	100
+	Style:	0x03
+	Stipple:	101
+)
+
+(TClr.98
+	Red:	0xffff
+)
+
+(TClr.99
+)
+
+(TClr.100
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(Stipple.101
+	Columns:	8
+	Rows:	8
+	Bits:	102854aa 54281000 
+)
+
+(BShSym.102
+	Color:	103
+	Outline:	1
+	OutlineColor:	104
+	OutlineWidth:	0.10000000000000
+	BgColor:	105
+	Style:	0x03
+	Stipple:	106
+)
+
+(TClr.103
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.104
+)
+
+(TClr.105
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(Stipple.106
+	Columns:	8
+	Rows:	8
+	Bits:	0000ff00 0000ff00 
+)
+
+(BShSym.107
+	Color:	108
+	Outline:	1
+	OutlineColor:	109
+	OutlineWidth:	0.10000000000000
+	BgColor:	110
+	Style:	0x03
+	Stipple:	111
+)
+
+(TClr.108
+	Red:	0xffff
+)
+
+(TClr.109
+)
+
+(TClr.110
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(Stipple.111
+	Columns:	8
+	Rows:	8
+	Bits:	40ff0404 04ff4040 
+)
+
+(BShSym.112
+	Color:	113
+	Outline:	1
+	OutlineColor:	114
+	OutlineWidth:	0.10000000000000
+	BgColor:	115
+	Style:	0x03
+	Stipple:	116
+)
+
+(TClr.113
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.114
+)
+
+(TClr.115
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(Stipple.116
+	Columns:	8
+	Rows:	8
+	Bits:	00182442 42241800 
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	0.10000000000000
+	BgColor:	120
+	Style:	0x03
+	Stipple:	121
+)
+
+(TClr.118
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.119
+)
+
+(TClr.120
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(Stipple.121
+	Columns:	8
+	Rows:	8
+	Bits:	d8c60660 6c8d8118 
+)
+
+(BShSym.122
+	Color:	123
+	Outline:	1
+	OutlineColor:	124
+	OutlineWidth:	0.10000000000000
+	BgColor:	125
+	Style:	0x03
+	Stipple:	126
+)
+
+(TClr.123
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.124
+)
+
+(TClr.125
+	Red:	0x6400
+	Green:	0x63
+	Blue:	0x6025
+)
+
+(Stipple.126
+	Columns:	8
+	Rows:	8
+	Bits:	40ff0404 04ff4040 
+)
+
+(BShSym.127
+	Color:	128
+	Outline:	1
+	OutlineColor:	129
+	OutlineWidth:	0.10000000000000
+	BgColor:	130
+)
+
+(TClr.128
+	Red:	0xfbd
+	Green:	0x7cab
+	Blue:	0x8200
+)
+
+(TClr.129
+)
+
+(TClr.130
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.131
+	Color:	132
+	Outline:	1
+	OutlineColor:	133
+	OutlineWidth:	0.10000000000000
+	BgColor:	134
+)
+
+(TClr.132
+	Red:	0x170b
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(TClr.133
+)
+
+(TClr.134
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.135
+	Color:	136
+	Outline:	1
+	OutlineColor:	137
+	OutlineWidth:	0.10000000000000
+	BgColor:	138
+	Style:	0x03
+	Stipple:	139
+)
+
+(TClr.136
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.137
+)
+
+(TClr.138
+	Red:	0x170b
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.139
+	Columns:	8
+	Rows:	8
+	Bits:	00440011 00440011 
+)
+
+(BShSym.140
+	Color:	141
+	Outline:	1
+	OutlineColor:	142
+	OutlineWidth:	0.10000000000000
+	BgColor:	143
+	Style:	0x03
+	Stipple:	144
+)
+
+(TClr.141
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.142
+)
+
+(TClr.143
+	Red:	0x170b
+	Green:	0xdb
+	Blue:	0xdc00
+)
+
+(Stipple.144
+	Columns:	8
+	Rows:	8
+	Bits:	11111111 11111111 
+)
+
+(BShSym.145
+	Color:	146
+	Outline:	1
+	OutlineColor:	147
+	OutlineWidth:	0.10000000000000
+	BgColor:	148
+)
+
+(TClr.146
+	Name:	"Transparent"
+)
+
+(TClr.147
+	Name:	"Transparent"
+)
+
+(TClr.148
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.149
+	Label:	"Rivière"
+	Precision:	-3
+)
+
+(LClass.150
+	Label:	"Sols minéraux bruts"
+	MinNum:	1.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.151
+	Label:	"Sols peu évolués lithiques"
+	MinNum:	3.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.152
+	Label:	"Sols peu évolués modaux"
+	MinNum:	5.00000000000000
+	MaxNum:	5.00000000000000
+	Precision:	-3
+)
+
+(LClass.153
+	Label:	"Sols peu évolués hydromorphes"
+	MinNum:	6.00000000000000
+	MaxNum:	9.00000000000000
+	Precision:	-3
+)
+
+(LClass.154
+	Label:	"Vertisols hydromorphes"
+	MinNum:	10.00000000000000
+	MaxNum:	10.00000000000000
+	Precision:	-3
+)
+
+(LClass.155
+	Label:	"Vertisols modaux"
+	MinNum:	11.00000000000000
+	MaxNum:	13.00000000000000
+	Precision:	-3
+)
+
+(LClass.156
+	Label:	"Sols bruns eutrophes hydromorphes"
+	MinNum:	14.00000000000000
+	MaxNum:	14.00000000000000
+	Precision:	-3
+)
+
+(LClass.157
+	Label:	"Sols bruns eutrophes ferruginisés"
+	MinNum:	15.00000000000000
+	MaxNum:	15.00000000000000
+	Precision:	-3
+)
+
+(LClass.158
+	Label:	"Sols ferrugineux tropicaux peu lessivés, peu lessivés en argile, lessivés en sesquioxydes"
+	MinNum:	16.00000000000000
+	MaxNum:	27.00000000000000
+	Precision:	-3
+)
+
+(LClass.159
+	Label:	"Sols ferrugineux tropicaux peu lessivés hydromorphes"
+	MinNum:	28.00000000000000
+	MaxNum:	29.00000000000000
+	Precision:	-3
+)
+
+(LClass.160
+	Label:	"Sols ferrugineux tropicaux peu lessivés jeunes"
+	MinNum:	30.00000000000000
+	MaxNum:	30.00000000000000
+	Precision:	-3
+)
+
+(LClass.161
+	Label:	"Sols ferrugineux tropicaux lessivés sans concrétions "
+	MinNum:	31.00000000000000
+	MaxNum:	44.00000000000000
+	Precision:	-3
+)
+
+(LClass.162
+	Label:	"Sols ferrugineux tropicaux lessivés à concrétions "
+	MinNum:	45.00000000000000
+	MaxNum:	59.00000000000000
+	Precision:	-3
+)
+
+(LClass.163
+	Label:	"Sols ferrugineux tropicaux lessivés indurés"
+	MinNum:	60.00000000000000
+	MaxNum:	72.00000000000000
+	Precision:	-3
+)
+
+(LClass.164
+	Label:	"Sols ferrugineux tropicaux lessivés hydromorphes"
+	MinNum:	73.00000000000000
+	MaxNum:	79.00000000000000
+	Precision:	-3
+)
+
+(LClass.165
+	Label:	"Sols ferrugineux tropicaux appauvris sans concrétions"
+	MinNum:	80.00000000000000
+	MaxNum:	80.00000000000000
+	Precision:	-3
+)
+
+(LClass.166
+	Label:	"Sols ferrugineux tropicaux appauvris à concrétions"
+	MinNum:	81.00000000000000
+	MaxNum:	81.00000000000000
+	Precision:	-3
+)
+
+(LClass.167
+	Label:	"Sols ferrugineux tropicaux appauvris peu ferruginisés"
+	MinNum:	82.00000000000000
+	MaxNum:	82.00000000000000
+	Precision:	-3
+)
+
+(LClass.168
+	Label:	"Sols ferrallitiques faiblement désaturés appauvris modaux"
+	MinNum:	83.00000000000000
+	MaxNum:	87.00000000000000
+	Precision:	-3
+)
+
+(LClass.169
+	Label:	"Sols ferrallitiques faiblement désaturés appauvris hydromorphes"
+	MinNum:	88.00000000000000
+	MaxNum:	88.00000000000000
+	Precision:	-3
+)
+
+(LClass.170
+	Label:	"Sols ferralitiques faiblement désaturés rajeunis ou pénévolués avec érosion et remaniement"
+	MinNum:	89.00000000000000
+	MaxNum:	93.00000000000000
+	Precision:	-3
+)
+
+(LClass.171
+	Label:	"Sols ferrallitiques moyennement désaturés typiques"
+	MinNum:	94.00000000000000
+	MaxNum:	95.00000000000000
+	Precision:	-3
+)
+
+(LClass.172
+	Label:	"Sols ferrallitiques moyennement désaturés appauvris"
+	MinNum:	96.00000000000000
+	MaxNum:	96.00000000000000
+	Precision:	-3
+)
+
+(LClass.173
+	Label:	"Sols ferrallitiques moyennement désaturés rajeunis ou pénévolués"
+	MinNum:	97.00000000000000
+	MaxNum:	97.00000000000000
+	Precision:	-3
+)
+
+(LClass.174
+	Label:	"Sols hydromorphes moyennement organiques humiques à gley"
+	MinNum:	98.00000000000000
+	MaxNum:	99.00000000000000
+	Precision:	-3
+)
+
+(LClass.175
+	Label:	"Sols hydromorphes minéraux ou peu humifères à gley de profondeur"
+	MinNum:	100.00000000000000
+	MaxNum:	102.00000000000000
+	Precision:	-3
+)
+
+(LClass.176
+	Label:	"Sols hydromorphes  minéraux ou peu humifères à gley lessivés"
+	MinNum:	103.00000000000000
+	MaxNum:	104.00000000000000
+	Precision:	-3
+)
+
+(LClass.177
+	Label:	"Sols hydromorphes minéraux ou peu humifères à pseudo-gley"
+	MinNum:	105.00000000000000
+	MaxNum:	107.00000000000000
+	Precision:	-3
+)
+
+(LClass.178
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.179
+	Color:	180
+	Outline:	1
+	OutlineColor:	181
+	OutlineWidth:	0.10000000000000
+	BgColor:	182
+)
+
+(TClr.180
+	Name:	"Transparent"
+)
+
+(TClr.181
+	Name:	"Transparent"
+)
+
+(TClr.182
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.183
+)
+
+(NameDict.184
+)
+
